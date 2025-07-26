@@ -7,7 +7,7 @@ Software Developer
 I love building cool stuff with code, especially in AI, blockchain, and full stack dev.
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [watthana04@gmail.com](mailto:watthana04@gmail.com)
+* ✉️  You can contact me at [watthana04.wk@gmail.com](mailto:watthana04@gmail.com)
 
 ### Skills
 
